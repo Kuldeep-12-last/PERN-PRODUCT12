@@ -11,7 +11,7 @@
   "author": "",
   "type": "module",
   "license": "ISC",
-  "description": "",
+  "description": "<h1 align=\"center\">✨ PERN Stack Tutorial ✨</h1>",
   "dependencies": {
     "@arcjet/node": "^1.0.0-beta.1",
     "@neondatabase/serverless": "^0.10.4",
