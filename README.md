@@ -1,39 +1,7 @@
 <h1 align="center">✨ PERN Stack Tutorial ✨</h1>
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
 
-Highlights:
 
-- 🌟 Tech stack: PERN + TailwindCSS + Daisy UI
-- 🚀 Rate Limiting & Bot Detection
-- 👌 Global state management with Zustand
-- 🐞 Error handling both on the server and client
-- ⭐ Deployment for FREE!
-- ⏳ And much more!
+this is a project where i performed real time CRUD operation and also try to detect and protect bot 
 
-### Setup .env file
-
-```js
-PORT=3000
-
-PGUSER=...
-PGPASSWORD=...
-PGHOST=...
-PGDATABASE=...
-
-ARCJET_KEY=...
-ARCJET_ENV=development
-```
-
-### Run the API
-
-```shell
-npm run dev
-```
-
-### Run the frontend
-
-```shell
-cd frontend
-npm run dev
 ```
